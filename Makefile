@@ -9,6 +9,7 @@
 # make: to make the Makefile
 # make test: to test dependencies
 # make clean: to delete excecutable and object files
+# Execute from commnd line
 
 PROGNAME      = macro_GUI
 SOURCES       = main.cc macro_GUI.cc 
